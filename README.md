@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Cleshy - Czipa Szilárd ✨
+- 👋 Hi, I’m Czipa Szilárd - @Cleshy ✨
 
 - 👀 I’m interested in all kinds of development stuff. ✨
 

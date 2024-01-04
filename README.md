@@ -1,7 +1,6 @@
 Hi 👋 My name is Szilárd Czipa
 ==============================
-Frontend Developer
-------------------
+
 I'm a frontend development enthusiast, diving into JavaScript and React. 
 My main focus? Constantly leveling up. Every day is a chance to improve and progress, and I'm all about that coding journey. 💻✨* 
 

@@ -4,9 +4,9 @@ Hi 👋 My name is Szilárd Czipa
 I'm a frontend development enthusiast, diving into JavaScript and React. 
 My main focus? Constantly leveling up. Every day is a chance to improve and progress, and I'm all about that coding journey. 💻✨* 
 
-🌍  I'm based in Hungary - Budapest*\
+🌍  I'm based in Hungary - Budapest*
 ✉️  You can contact me at [szilard.czipa@gmail.com](mailto:szilard.czipa@gmail.com)*\
-🧠  I'm learning JavaScript & React*\
+🧠  I'm learning JavaScript & React*
 
 ### Skills
 

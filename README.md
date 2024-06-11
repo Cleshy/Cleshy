@@ -6,7 +6,7 @@ My main focus? Constantly leveling up. Every day is a chance to improve and prog
 
 🌍  I'm based in Hungary - Budapest\
 ✉️  You can contact me at [szilard.czipa@gmail.com](mailto:szilard.czipa@gmail.com)*\
-🧠  I'm learning JavaScript & React*
+🧠  I'm learning React*
 
 ### Skills
 
